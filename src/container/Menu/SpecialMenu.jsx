@@ -7,7 +7,7 @@ const SpecialMenu = () => (
  <div className="app__specialmenu flex__center section__padding" id='menu'>
   <div className="app__specialmenu-title">
 <SubHeading titile="Menu that fits your palate"/>
-    <img src={images.spoon} alt="spoon" />
+   
     <h1 className="headtext__cormorant">Today&apos;s Special</h1>
 </div>
 
